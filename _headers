@@ -1,0 +1,5 @@
+/main.js
+  Access-Control-Allow-Origin: *
+  Cache-Control: max-age=14400
+  Content-Disposition: inline; filename=test.js
+  Content-Type: text/javascript; charset=utf-8
